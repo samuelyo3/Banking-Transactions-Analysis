@@ -55,21 +55,26 @@ Trend & Performance Analytics
 This interactive report is designed with: Dynamic currency conversion (EUR/USD), KPI indicators showing YoY growth trends, drillable visuals for detailed segment and product insights, slicers for multi-level filtering and exploration
 ## Insights
 1. Year-over-Year Trends
+ 
  From 2023 to 2025, the platform experienced a steady decline in overall transaction activity, with 2023 marking the peak year.
   - Transactions: 1,288 (2023) → 1,259 (2024, -2.25%) → 479 (2025, -61.95%)
   - Transaction Amount: $6.46M → $6.42M (-0.70%) → $2.41M (-62.43%)
   - Revenue: $39.61K → $40.56K (+2.39%) → $15.75K (-61.16%).
 3. Customer Segments & Seasonality
+ 
  Middle-income customers made the most transactions, followed by high- and low-income segments.
  Transactions peaked in April (middle/high) and March (low income) but tended to dip later in the year, particularly in September and November.
 4. Product & Channel Insights
+ 
  Credit cards led in transaction volume, followed by loans, while mortgages and checking accounts were lowest (19.43% each).
  Across channels, ATMs had the most activity, with mobile, branch, and online close behind.
 5. Fee-Based Revenue Trends
+ 
  Overall, late payment fees generated the highest revenue ($48.89K), followed by insurance ($31.31K) and credit card fees ($15.72K).
  In 2024, all fee types grew modestly: insurance (+3.44%), late payment (+0.19%), and credit card (+7.25%).
  However, 2025 saw sharp declines across all categories: insurance (-64.44%), late payment (-58.92%), and credit card (-61.35%), signalling a major slowdown in fee-based revenue activity.
 6. Temporal Insights
+ 
  January recorded the highest revenue, followed by April and March, while June and July had the lowest.
  Transaction activity was stronger on weekdays than at weekends, reflecting higher engagement during business day
 
