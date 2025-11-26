@@ -89,4 +89,8 @@ This interactive report is designed with: Dynamic currency conversion (EUR/USD),
    January recorded the highest revenue, followed by April and March, while June and July had the lowest.
  
    Transaction activity was stronger on weekdays than at weekends, reflecting higher engagement during business day
+## Acknowledgements
 
+Dataset provided by FP20 Analytics Challenges Group
+
+Design inspired by one of Rakshit Bhadoria’s Power BI projects; grateful for the inspiration.
